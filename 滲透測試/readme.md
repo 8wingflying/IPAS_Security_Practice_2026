@@ -1,6 +1,11 @@
 
 
-# [TryHackMe網路錄影教學](https://www.youtube.com/results?search_query=TryHackMe)
+# YOUTUBE上的教學錄影
+- [TryHackMe網路錄影教學](https://www.youtube.com/results?search_query=TryHackMe)
+- [Vulnhub網路錄影教學](https://www.youtube.com/results?search_query=vulnhub)
+  - [HackerSploit的VulnHub教學](https://www.youtube.com/playlist?list=PLBf0hzazHTGMcijE6NgwyjfbR33D8GJVe)
+- [HackTheBox網路錄影教學](https://www.youtube.com/results?search_query=hackthebox)
+
 ## TryHackMe Simple CTF
 - [TryHackMe Simple CTF題目網站](https://tryhackme.com/room/easyctf)
 - 解答1:[TryHackMe Simple CTF Official Walkthrough](https://www.youtube.com/watch?v=mItfrdyE1U4)
