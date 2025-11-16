@@ -1,4 +1,9 @@
-
+# 建議學習
+- 系統滲透測試
+  - Windows 平台 ==> Metaplotable
+  - Linux 平台 ==> 
+- 網站滲透測試
+- 漏洞測試
 
 # YOUTUBE上的教學錄影
 - [TryHackMe網路錄影教學](https://www.youtube.com/results?search_query=TryHackMe)
