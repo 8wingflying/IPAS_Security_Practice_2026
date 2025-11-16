@@ -4,8 +4,11 @@
   - Linux 平台 ==> 
 - 網站滲透測試
 - 漏洞測試
+
+# 學習資源
 - https://github.com/8wingflying/MyFirstHackingDay/tree/main
 - https://github.com/8wingflying/myfirstsecurity
+- https://jobrest.gitbooks.io/kali-linux-cn/content/table_of_contents.html
 # YOUTUBE上的教學錄影
 - [TryHackMe網路錄影教學](https://www.youtube.com/results?search_query=TryHackMe)
 - [Vulnhub網路錄影教學](https://www.youtube.com/results?search_query=vulnhub)
