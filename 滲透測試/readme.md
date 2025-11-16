@@ -4,7 +4,7 @@
   - Linux 平台 ==> 
 - 網站滲透測試
 - 漏洞測試
-
+- https://github.com/8wingflying/MyFirstHackingDay/tree/main
 # YOUTUBE上的教學錄影
 - [TryHackMe網路錄影教學](https://www.youtube.com/results?search_query=TryHackMe)
 - [Vulnhub網路錄影教學](https://www.youtube.com/results?search_query=vulnhub)
@@ -22,3 +22,6 @@
 ## 龐大課程 [TryHackMe Learning Paths](https://tryhackme.com/hacktivities)
 ## 滲透測試學習路徑
 - [48小時的課程 Offensive Pentesting](https://tryhackme.com/path/outline/pentesting)
+
+# 參考資料
+- https://github.com/MyDearGreatTeacher/Reversing202209/tree/main
