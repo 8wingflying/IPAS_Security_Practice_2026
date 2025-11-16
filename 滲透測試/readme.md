@@ -8,7 +8,7 @@
 # 學習資源
 - https://github.com/8wingflying/MyFirstHackingDay/tree/main
 - https://github.com/8wingflying/myfirstsecurity
-- https://jobrest.gitbooks.io/kali-linux-cn/content/table_of_contents.html
+- [Kali Linux 滲透測試的藝術（中文版）](https://jobrest.gitbooks.io/kali-linux-cn/content/index.html)
 # YOUTUBE上的教學錄影
 - [TryHackMe網路錄影教學](https://www.youtube.com/results?search_query=TryHackMe)
 - [Vulnhub網路錄影教學](https://www.youtube.com/results?search_query=vulnhub)
